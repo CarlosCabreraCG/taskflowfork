@@ -6,6 +6,8 @@ Gestor de tareas en Python · Proyecto integrador del curso **DevOps & Project M
 
 ## Equipo
 - William Fabian Huaman Huaman — @MechatronicCoder
+- Carlos Gabriel Cabrera Gallardo - @CarlosCabreraCG
+- Carlos Gabriel Cabrera Gallardo (Colaborador) @CarlosCabreraCG 
 
 ## ¿Qué hace?
 TaskFlow permite agregar tareas con prioridad (baja, media, alta), completarlas y listar las pendientes.
@@ -32,3 +34,6 @@ python -m pytest -v
 - PR #2 · Pipeline de CI: https://github.com/MechatronicCoder/taskflow/pull/2
 - PR #3 · Funcionalidad eliminar: https://github.com/MechatronicCoder/taskflow/pull/3
 - PR #4 · Despliegue en GitHub Pages: https://github.com/MechatronicCoder/taskflow/pull/4
+
+### Pendientes:
+Falta actualizar los PRs 
